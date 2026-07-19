@@ -1,0 +1,5 @@
+Model,Accuracy (%)
+Explosion Risk,100.0
+Fire Risk,100.0
+Gas Leakage,37.65
+Electrical Hazard,100.0
